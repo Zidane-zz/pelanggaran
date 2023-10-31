@@ -2,3 +2,4 @@
 "# pelanggaran" 
 "# pelanggaran" 
 "# pelanggaran" 
+"# poin" 
